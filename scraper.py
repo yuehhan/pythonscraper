@@ -32,7 +32,7 @@ def send_mail():
     server.starttls()
     server.ehlo()
 
-    server.login('cranberrycavalier@gmail.com', 'bpmfxzrhbtpkuoik')
+    server.login(#username, #password)
 
     subject = 'Price went down, check the link!'
     body = 'Check the link https://www.ebay.com/itm/Bose-QuietComfort-35-Series-I-Wireless-Headphones-Factory-Renewed/163543329737?epid=572935696&hash=item2613f12bc9%3Am%3AmrVN8YBKOR3ryDWzeb6Clnw&_trkparms=%2526rpp_cid%253D5dc3304b6e4ae02d6d3ffb08&var=462918275683'
