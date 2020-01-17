@@ -1,1 +1,1 @@
-pythonscraper
+This is my first attempt at using Beautiful Soup. I created a script to monitor an item on Ebay. It will alert the user by email if the pricing drops to a certain amount. There is also a timer so the script will run within a specified interval.
